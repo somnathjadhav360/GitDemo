@@ -1,4 +1,4 @@
 # GitDemo
- tihis is my first Git Repository
+ this is my first Git Repository
 <br>
 Author - Somnath Jadhav
